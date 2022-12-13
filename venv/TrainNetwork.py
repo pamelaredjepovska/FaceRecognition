@@ -8,7 +8,7 @@ from General import *
 # step 1
 # load images
 # create a list that gets images and gets encoding automatically from folder so os biblioteka
-path = '../imagesTrain2'
+path = '../imagesTrain'
 images = []  # list of all the images we import
 classNames = []  # the names of all the images
 # grab the images from the folder
